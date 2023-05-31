@@ -6,7 +6,8 @@
 </p>
 
 <p>
-  👋&nbsp; Hi there! I'm <b>developer</b> skilled in WEB, IoT and Ai.🚀<br/>
+  👋&nbsp; Hi there! I'm Studying in <b>👨🏻‍💻MTVS</b>🚀<br/>
+  
   I have experience 3 months of IoT development and 4 months of Ai development.<br/><br/>
   I enjoy swimming, surf and basketball. 🏊‍♂️ 🏄‍♂️⛹️‍♂️<br/><br/>
 </p>
