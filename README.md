@@ -2,7 +2,7 @@
 <p>
   <a href="https://blog.naver.com" target="_blank"><img src="https://img.shields.io/badge/BLOG-282828?style=flat-square&logo=Notion&logoColor=white"/></a>
   <a href="https://www.instagram.com/sour_s.h/" target="_blank"><img src="https://img.shields.io/badge/suhshin-CB3F7C?style=flat-square&logo=Instagram&logoColor=white"/></a>
-  <a href="mailto:lumn93@gmail.com" target="_blank"><img src="https://img.shields.io/badge/lumn93@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="mailto:lumn93@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 
 <p>
